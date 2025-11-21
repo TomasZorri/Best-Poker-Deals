@@ -2190,9 +2190,6 @@ img.logo-separador {
 	margin-top:30px;
 }
 /* Blog Sidebar */
-.news-single .single-main {
-    max-height: 750px;
-}
 .main-sidebar {
     min-height: 750px;
     display: flex;
@@ -4509,9 +4506,6 @@ input[type="checkbox"] {
 }
 .section.explore-games{
 	padding-bottom: 3em;
-}
-.news-single .single-main {
-    max-height: unset;
 }
 .main-sidebar {
     min-height: unset;
